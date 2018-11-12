@@ -15,7 +15,7 @@ h1{
   font-weight: bold;
 }
 .jumbotron{
-  background-image: url("background.jpg");
+  background-image: url("https://raw.githubusercontent.com/gvalera123/gvalera123.github.io/master/background.jpg");
   background-size: cover;
 }
 .card-img-bottom{
