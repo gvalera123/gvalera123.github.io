@@ -1,0 +1,67 @@
+
+/* landing page */
+h2{
+  color: #94b0bb;
+}
+h1{
+  color: #94b0bb;
+}
+.display-3{
+  color: white;
+  font-weight: bold;
+}
+.my-3{
+  color: white;
+  font-weight: bold;
+}
+.jumbotron{
+  background-image: url("https://cdn.pixabay.com/photo/2017/07/01/19/48/background-2462431_960_720.jpg");
+  background-size: cover;
+}
+.card-img-bottom{
+  width: 250px;
+  height: 250px;
+  object-fit: cover;
+}
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #96b3b9;
+    margin: 1em 0;
+    padding: 0;
+}
+.card-header{
+  background-color: #538092;
+  color: white;
+}
+.col-sm-12 {
+  padding-bottom: 30px;
+}
+
+/* comparison page */
+
+.img-comparison{
+  width: 500px;
+  height: 500px;
+  object-fit: cover;
+}
+
+h3 {
+    color: #94b0bb;
+}
+.header-comparison{
+  padding: 30px;
+}
+
+/* Visualizations */
+.img-fluid{
+  width: 700px;
+  height: 600px;
+}
+.viz-header{
+  color: white;
+}
+.visual-text{
+  padding-top: 50px;
+}
