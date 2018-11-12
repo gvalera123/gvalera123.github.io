@@ -16,7 +16,6 @@ h1{
 }
 .jumbotron{
   background-image: url("https://raw.githubusercontent.com/gvalera123/gvalera123.github.io/master/background.jpg");
-  background-size: cover;
 }
 .card-img-bottom{
   width: 250px;
